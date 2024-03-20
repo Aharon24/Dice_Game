@@ -28,7 +28,7 @@ def dice_game():
                 return
             
             elif  ra_dom == ra_dom1:
-                print(f"The sum of dice is {a1} + {b1} = {ra_dom1}" )
+                print(f"The sum of dice is ! {a1} + {b1} = {ra_dom1}" )
                 print("You Won !", ra_dom1 )
                 return
 
